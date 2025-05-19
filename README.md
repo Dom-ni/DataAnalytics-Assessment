@@ -1,3 +1,5 @@
+# Author: Bassey Edet
+
 # DataAnalytics-Assessment – SQL Solutions
 
 ## Overview
