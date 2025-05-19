@@ -1,3 +1,4 @@
+-- Author: Bassey Edet
 -- Q1: High-Value Customers with Multiple Products
 -- Find Customers who have both a funded savings plan and investment plan
      
