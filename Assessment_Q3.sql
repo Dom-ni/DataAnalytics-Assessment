@@ -1,3 +1,4 @@
+-- Author: Bassey Edet
 -- Q3: Account Inactivity Alert
 -- Identify active savings and investment plans with no inflow for over 1 year
 
