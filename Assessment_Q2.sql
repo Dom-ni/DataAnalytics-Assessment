@@ -1,3 +1,4 @@
+-- Author:Bassey Edet
 -- Q2: Transaction Frequency Analysis
 -- Categorize customes by average monthly transaction frequency
 
