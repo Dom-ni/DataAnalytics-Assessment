@@ -1,7 +1,6 @@
 # Author: Bassey Edet
 
 # DataAnalytics-Assessment – SQL Solutions
-
 ## Overview
 
 This repository contains solutions to the SQL assessment from Cowrywise. It evaluates SQL proficiency in data aggregation, joins, subqueries, and business problem-solving using relational databases.
