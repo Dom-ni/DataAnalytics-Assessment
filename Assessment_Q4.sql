@@ -1,3 +1,4 @@
+-- Author: Bassey Edet
 -- Q4: Customer Lifetime Valvue Estimation
 -- Estimate CLV based on tenure and transaction volume
 
